@@ -32,7 +32,7 @@ npm i -D @typescript-eslint/eslint-plugin
 npx eslint --init
 ```
 
-**Установка плагинов для ESLint eslint-plugin-sonarjs, promise, optimize-regex**
+**Установка плагинов для ESLint - eslint-plugin-sonarjs, promise, optimize-regex**
 
 ```
 npm install eslint-plugin-sonarjs -D

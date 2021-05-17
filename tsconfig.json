@@ -67,7 +67,7 @@
     /* Advanced Options */
     "skipLibCheck": true /* Skip type checking of declaration files. */,
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
-    "outFile": "./build/app.js",
+    "outFile": "./dist/app.js",
     "rootDir": "./src"
   },
   //"include": ["src/**/*"],
